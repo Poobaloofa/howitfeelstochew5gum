@@ -1,4 +1,4 @@
-#Stacked Sine for the Dynamic Wall
+# Stacked Sine for the Dynamic Wall
 
 This exhibit displays the periodic nature of any sine curve, using LCM to calculate the total time a cycle should take.
 
